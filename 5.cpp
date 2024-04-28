@@ -5,7 +5,7 @@ have two member functions: getdate() , which allows the user to enter a date in
 12/31/02 format, and showdate() , which displays the date.
 */
 
-// author @Nishant
+// author @mansoor.wani
 
 #include<iostream>
 
