@@ -9,7 +9,7 @@ result in the third time variable. Finally it should display the value of this t
 Make appropriate member functions const .
 */
 
-// author @Nishant
+// author @mansoor.wani
 
 #include<iostream>
 
