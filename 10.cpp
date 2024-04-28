@@ -8,7 +8,7 @@ ates three ships, asks the user to input the position of each, and then displays
 number and position.
 */
 
-// author @Nishant
+// author @mansoor.wani
 
 #include<iostream>
 
